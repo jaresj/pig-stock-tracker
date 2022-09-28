@@ -12,7 +12,7 @@ function Newsfeed() {
                     <p>+$44.03</p>
                 </div>
                 <div className="newsfeed__chart">
-                    
+                    <LineGraph />
                 </div>
             </div>
         </div>
